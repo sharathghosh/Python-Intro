@@ -1,0 +1,138 @@
+Id,City,City Group,revenue
+0,İstanbul,Big Cities,5653753.0
+1,Ankara,Big Cities,6923131.0
+2,Diyarbakır,Other,2055379.0
+3,Tokat,Other,2675511.0
+4,Gaziantep,Other,4316715.0
+5,Ankara,Big Cities,5017319.0
+6,İstanbul,Big Cities,5166635.0
+7,İstanbul,Big Cities,4491607.0
+8,Afyonkarahisar,Other,4952497.0
+9,Edirne,Other,5444227.0
+10,Kocaeli,Other,3745135.0
+11,İstanbul,Big Cities,5161370.0
+12,Ankara,Big Cities,1734634.0
+13,İstanbul,Big Cities,4807746.0
+14,Bursa,Other,1999097.0
+15,İstanbul,Big Cities,3218918.0
+16,İstanbul,Big Cities,19696939.0
+17,İstanbul,Big Cities,8213524.0
+18,İzmir,Big Cities,5337526.0
+19,Sakarya,Other,2021934.0
+20,Elazığ,Other,5525735.0
+21,İstanbul,Big Cities,1149870.0
+22,Kayseri,Other,3956086.0
+23,Sakarya,Other,2999068.0
+24,İstanbul,Big Cities,8904084.0
+25,Eskişehir,Other,3778621.0
+26,Ankara,Big Cities,2267425.0
+27,Bursa,Other,5435276.0
+28,İstanbul,Big Cities,4705945.0
+29,Ankara,Big Cities,3447890.0
+30,Sakarya,Other,3008199.0
+31,İstanbul,Big Cities,2058644.0
+32,Şanlıurfa,Other,3261924.0
+33,Samsun,Other,2371202.0
+34,İstanbul,Big Cities,4100886.0
+35,Adana,Other,3903884.0
+36,Ankara,Big Cities,3028267.0
+37,Ankara,Big Cities,2740687.0
+38,İstanbul,Big Cities,5461700.0
+39,İstanbul,Big Cities,3818055.0
+40,İstanbul,Big Cities,6836483.0
+41,İstanbul,Big Cities,4554237.0
+42,İstanbul,Big Cities,4952255.0
+43,Ankara,Big Cities,2732645.0
+44,Ankara,Big Cities,4264176.0
+45,Antalya,Other,3752885.0
+46,İzmir,Big Cities,4250758.0
+47,İzmir,Big Cities,7865428.0
+48,Kayseri,Other,7201784.0
+49,İstanbul,Big Cities,8630682.0
+50,Ankara,Big Cities,2156098.0
+51,Kastamonu,Other,3273041.0
+52,Uşak,Other,1763231.0
+53,Samsun,Other,5595267.0
+54,Muğla,Other,4651866.0
+55,İstanbul,Big Cities,6941173.0
+56,İstanbul,Big Cities,2390534.0
+57,Antalya,Other,3258837.0
+58,İstanbul,Big Cities,3004429.0
+59,İstanbul,Big Cities,3600467.0
+60,Ankara,Big Cities,3164972.0
+61,İstanbul,Big Cities,4350573.0
+62,Sakarya,Other,5286212.0
+63,Kırklareli,Other,1619683.0
+64,İstanbul,Big Cities,2551252.0
+65,İzmir,Big Cities,1756069.0
+66,Konya,Other,1882131.0
+67,İstanbul,Big Cities,4052733.0
+68,İstanbul,Big Cities,3836721.0
+69,Konya,Other,3452382.0
+70,İstanbul,Big Cities,3982767.0
+71,İstanbul,Big Cities,4136425.0
+72,İzmir,Big Cities,2525375.0
+73,Ankara,Big Cities,3347767.0
+74,İstanbul,Big Cities,5500818.0
+75,İstanbul,Big Cities,16549064.0
+76,İstanbul,Big Cities,4590423.0
+77,Ankara,Big Cities,1904842.0
+78,Ankara,Big Cities,3871344.0
+79,Adana,Other,6313221.0
+80,İstanbul,Big Cities,3727364.0
+81,İstanbul,Big Cities,4066618.0
+82,Karabük,Other,3807496.0
+83,İstanbul,Big Cities,5966193.0
+84,İzmir,Big Cities,4250553.0
+85,İstanbul,Big Cities,7495092.0
+86,Bursa,Other,3351383.0
+87,İstanbul,Big Cities,5906596.0
+88,Antalya,Other,2025297.0
+89,İstanbul,Big Cities,2364478.0
+90,İstanbul,Big Cities,3426169.0
+91,Bursa,Other,2083447.0
+92,İstanbul,Big Cities,6782425.0
+93,Tekirdağ,Other,3410878.0
+94,Samsun,Other,3753720.0
+95,Samsun,Other,1270499.0
+96,Diyarbakır,Other,6412623.0
+97,İstanbul,Big Cities,6694797.0
+98,Denizli,Other,2344689.0
+99,İstanbul,Big Cities,13575224.0
+100,İstanbul,Big Cities,9652350.0
+101,Balıkesir,Other,4758476.0
+102,Diyarbakır,Other,2738052.0
+103,Tekirdağ,Other,4429512.0
+104,Adana,Other,4467728.0
+105,Aydın,Other,2792031.0
+106,Antalya,Other,4888774.0
+107,Samsun,Other,3248660.0
+108,Muğla,Other,3570392.0
+109,Ankara,Big Cities,4219263.0
+110,Amasya,Other,2954086.0
+111,Kütahya,Other,2993069.0
+112,İstanbul,Big Cities,3784230.0
+113,Tekirdağ,Other,2097022.0
+114,Eskişehir,Other,4155435.0
+115,İstanbul,Big Cities,4882985.0
+116,İzmir,Big Cities,8894598.0
+117,Ankara,Big Cities,2018785.0
+118,İstanbul,Big Cities,1847826.0
+119,İstanbul,Big Cities,3780019.0
+120,Aydın,Other,4067566.0
+121,İzmir,Big Cities,3445076.0
+122,İstanbul,Big Cities,4286645.0
+123,Bolu,Other,4263629.0
+124,Ankara,Big Cities,3810007.0
+125,Trabzon,Other,4780607.0
+126,Isparta,Other,4015749.0
+127,Bursa,Other,7592272.0
+128,Ankara,Big Cities,2383840.0
+129,Eskişehir,Other,3939804.0
+130,Osmaniye,Other,3376145.0
+131,Ankara,Big Cities,3199619.0
+132,Trabzon,Other,5787594.0
+133,İzmir,Big Cities,9262754.0
+134,Kayseri,Other,2544857.0
+135,İstanbul,Big Cities,7217634.0
+136,İstanbul,Big Cities,6363241.0
